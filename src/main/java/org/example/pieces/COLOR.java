@@ -1,4 +1,6 @@
 package org.example.pieces;
 
-public class COLOR {
+public enum COLOR {
+    WHITE,
+    BLACK
 }
